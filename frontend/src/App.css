@@ -1,0 +1,29 @@
+
+a{
+    text-decoration: none;
+}
+
+.navbar{
+
+    background-color: rgb(255, 23, 31);
+    
+}
+
+#logo{
+
+    width:120px;
+    
+}
+
+.card:hover{
+    background-color:#f3efef;
+}
+
+#description{
+    font-size: 23px;
+    margin-bottom:3px;
+}
+
+a:hover{
+    text-decoration: underline;
+}
